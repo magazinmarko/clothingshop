@@ -1,0 +1,6 @@
+2019-02-18T13:41:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-includes\capabilities.php on line 903
+
+2019-02-18T13:45:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-content\plugins\icegram\classes\class-icegram-message-admin.php on line 2
+
+2019-02-18T13:45:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore_PostStatusRegistrar.php on line 7
+

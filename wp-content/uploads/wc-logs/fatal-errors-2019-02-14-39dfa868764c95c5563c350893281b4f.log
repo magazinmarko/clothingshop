@@ -1,0 +1,6 @@
+2019-02-14T12:31:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-02-14T18:45:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-admin\custom-header.php on line 14
+
+2019-02-14T19:38:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-admin\includes\media.php on line 16
+

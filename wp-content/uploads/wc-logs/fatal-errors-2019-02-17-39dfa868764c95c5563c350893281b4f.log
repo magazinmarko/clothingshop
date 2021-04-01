@@ -1,0 +1,8 @@
+2019-02-17T14:45:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-02-17T14:45:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 9
+
+2019-02-17T14:45:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-variations.php on line 8
+
+2019-02-17T23:34:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\markois1917\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
